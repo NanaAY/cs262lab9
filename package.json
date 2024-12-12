@@ -2,8 +2,13 @@
   "name": "cs262lab9",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "monopolyService.js",
+  "engines": {
+    "node": "20.x"
+  },
   "scripts": {
+    "start": "node monopolyService.js",
+    "start-direct": "node monopolyDirect.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
