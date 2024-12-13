@@ -42,9 +42,9 @@ INSERT INTO Game VALUES (1, '2006-06-27 08:00:00');
 INSERT INTO Game VALUES (2, '2006-06-28 13:20:00');
 INSERT INTO Game VALUES (3, '2006-06-29 18:41:00');
 
-INSERT INTO Player(ID, emailAddress) VALUES (1, 'me@calvin.edu');
-INSERT INTO Player VALUES (2, 'king@gmail.edu', 'The King');
-INSERT INTO Player VALUES (3, 'dog@gmail.edu', 'Dogbreath');
+INSERT INTO Player(ID, emailAddress) VALUES (41, 'me@calvin.edu');
+INSERT INTO Player VALUES (32, 'king@gmail.edu', 'The King');
+INSERT INTO Player VALUES (33, 'dog@gmail.edu', 'Dogbreath');
 
 INSERT INTO PlayerGame VALUES (21, 11, 0.00, 7, 8, 5, 7, 6);
 INSERT INTO PlayerGame VALUES (22, 12, 0.00, 2, 1, 4, 5, 9);
