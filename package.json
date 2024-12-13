@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "monopolyService.js",
+  "license": "ISC",
   "engines": {
     "node": "20.x"
   },
